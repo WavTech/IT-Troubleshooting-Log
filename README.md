@@ -122,6 +122,6 @@
 ---
 
 ## **📫 Connect With Me**  
-📧 **Email:** [Your Email Here]  
-💼 **LinkedIn:** [Your LinkedIn Here]  
-🌐 **GitHub:** [Your GitHub Profile Here]  
+📧 **Email:** 	cameron.vester@tech901.org 
+💼 **LinkedIn:** (https://www.linkedin.com/in/cameron-v-624773317/) 
+🌐 **GitHub:** (https://github.com/WavTech)
