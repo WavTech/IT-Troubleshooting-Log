@@ -56,7 +56,7 @@
 - **Solution:** All documentation successfully migrated  
 - **Notes:** Ensured no data loss  
 
-### **👥 Employee Onboarding (Charley & April)**  
+### **👥 Employee Onboarding **  
 - **Issue:** Two new employees required full IT setup  
 - **Steps Taken:** Configured devices, accounts, permissions, and security settings  
 - **Solution:** Employees fully onboarded and operational  
